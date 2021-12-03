@@ -1,1 +1,1 @@
-# interview-assistant-tg-bot
+# Interview Assistant
